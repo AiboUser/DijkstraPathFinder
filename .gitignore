@@ -1,0 +1,13 @@
+*.ipch
+*.opensdf
+*.sdf
+*.suo
+*.user
+*Thumbs.db*
+~*.docx
+~*.xlsm
+/Assets/UnityVS
+/*.csproj
+/Library
+/obj
+/*.sln
